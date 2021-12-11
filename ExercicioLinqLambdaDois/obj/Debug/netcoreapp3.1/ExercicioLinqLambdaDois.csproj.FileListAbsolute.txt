@@ -1,0 +1,13 @@
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.exe
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.deps.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.runtimeconfig.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.runtimeconfig.dev.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\bin\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.csprojAssemblyReference.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.AssemblyInfoInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.AssemblyInfo.cs
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 17 - Expressões lambda, delegates, LINQ\ExercicioLinqLambdaDois\ExercicioLinqLambdaDois\obj\Debug\netcoreapp3.1\ExercicioLinqLambdaDois.genruntimeconfig.cache

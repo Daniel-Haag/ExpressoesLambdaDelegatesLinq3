@@ -1,0 +1,6 @@
+Jose,jose@jose.com.br,1200.00
+Maria,maria@maria.com.br,1300.00
+Fernanda,fernanda@fernanda.com.br,1500.00
+Daniel,daniel@daniel.com.br,4217.00
+Joao,joao@joao.com.br,2000.00
+Madalena,madalena@madalena.com.br,3000.00
